@@ -17,8 +17,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- Quality Assurance Lead: ensures deliverables meet quality standards, manages defect triage.
+- Business Analyst: gathers requirements, bridges business and technical teams.
+- Change Manager: oversees change control, coordinates impact analysis and approvals.
+- Deployment Coordinator: plans and executes release activities, manages deployment communication.
+- External Stakeholders: represent customer or partner interests, provide inputs and approvals.
 
 ## Key Artifacts
 - Project Charter / One-pager
