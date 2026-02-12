@@ -21,8 +21,11 @@ Our project management framework provides a concise, shareable approach that hel
 - **Project Manager (PM)**: Coordinates delivery, schedules, risk management, and communications
 - **Product Manager (PdM)**: Defines outcomes, prioritizes the backlog, and measures success
 - **Developers**: Implement features, collaborate on design, and ensure testability
-- **QA/Testing**: Validate quality and verify acceptance criteria are met
-- **Stakeholders**: Provide inputs, requirements, and approvals
+- **Quality Assurance Lead**: Ensures deliverables meet quality standards, manages defect triage
+- **Business Analyst**: Gathers requirements, bridges communication between business and technical teams
+- **Change Manager**: Oversees change control, coordinates impact analysis and approvals
+- **Deployment Coordinator**: Plans and executes release activities, manages deployment communication
+- **External Stakeholders**: Represent customer or partner interests, provide input and feedback
 
 ### Key Artifacts
 
@@ -94,7 +97,24 @@ Learn how to capture learnings and convert them into actionable improvements. In
 ### 8. Roles & Personas
 **[octoacme-roles-and-personas.md](octoacme-roles-and-personas.md)**
 
-Detailed definitions of typical roles and responsibilities in OctoAcme projects. Provides role summaries, key responsibilities, goals, and communication patterns for Developers, Product Managers, and Project Managers. Useful for understanding team dynamics and role boundaries.
+Detailed definitions of typical roles and responsibilities in OctoAcme projects. Provides role summaries, key responsibilities, goals, and communication patterns for Developers, Product Managers, Project Managers, Quality Assurance Leads, Business Analysts, Change Managers, Deployment Coordinators, and External Stakeholders. Includes role handoff procedures and interaction points. Useful for understanding team dynamics and role boundaries.
+
+## 📋 Templates and Checklists
+
+### Change Control Checklist
+**[change-control-checklist.md](change-control-checklist.md)**
+
+Comprehensive checklist for managing changes through proper evaluation, approval, and documentation. Covers pre-change planning, impact analysis, risk assessment, approvals, implementation, and post-implementation review. Includes emergency change procedures and rollback processes.
+
+### QA Responsibility Matrix
+**[qa-responsibility-matrix.md](qa-responsibility-matrix.md)**
+
+RACI matrix defining quality assurance responsibilities across project phases and team roles. Clarifies who is responsible, accountable, consulted, and informed for various QA activities. Includes quality gates, escalation paths, and communication cadence for effective cross-functional collaboration.
+
+### Release Readiness Checklist
+**[release-readiness-checklist.md](release-readiness-checklist.md)**
+
+Comprehensive pre-deployment checklist ensuring all release prerequisites are met. Covers code quality, testing, documentation, operations, security, compliance, change management, and stakeholder sign-offs. Includes post-deployment validation criteria and rollback procedures.
 
 ## 🚀 Getting Started
 
